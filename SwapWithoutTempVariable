@@ -1,0 +1,14 @@
+Method 1:
+*a = *a + *b
+*b = *a - *b
+*a = *a - *b
+
+Method 2:
+*a^ = *b
+*b^ = *a
+*a^ = *b
+
+Method 3:
+a = a + b
+b = a - b
+a = a - b
